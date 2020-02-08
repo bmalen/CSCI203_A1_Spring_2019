@@ -1,0 +1,35 @@
+Number of words in dictionary: 370103
+First 10 emordnilap words:
+aa : aa
+aaa : aaa
+aas : saa
+ab : ba
+aba : aba
+abac : caba
+abas : saba
+abay : yaba
+abba : abba
+abo : oba
+Longest: kinnikinnik (11 characters).
+
+Number of valid words read: 612
+Number of unique words read: 283
+Number of unique words read that were found in the dictionary: 280
+
+admire: armied damier dimera merida
+after: afret frate trefa
+again: angia
+along: anglo gonal lango logan longa nogal
+and: dan nad
+another: athenor rheotan
+answer: resawn
+any: nay yan
+are: aer ear era rea
+as: sa
+
+Word with the most anagrams: tears
+Longest word with anagram(s): streaming
+Total number of words with anagram(s): 185
+Total number of anagrams found: 394
+
+Total run time (secs): 10
